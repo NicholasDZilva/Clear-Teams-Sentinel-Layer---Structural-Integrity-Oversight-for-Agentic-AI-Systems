@@ -1,0 +1,2 @@
+# Clear-Teams-Sentinel-Layer---Structural-Integrity-Oversight-for-Agentic-AI-Systems
+A sovereign-grade, structurally independent audit layer for autonomous systems. CT-SL measures invariant adherence, detects drift in real time, and flags human intervention thresholds — without influencing system behaviour. Grounded in D’Zilva’s extension of Ashby’s Law, CT-SL establishes a new standard for provable independence in AI oversight.
